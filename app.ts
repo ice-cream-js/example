@@ -1,4 +1,4 @@
-import render from "./lib/ice-cream.js";
+import render from "./lib/ice-cream.ts";
 
 render('app',`
 <p align="center">
